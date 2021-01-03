@@ -1,0 +1,430 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 34163,
+      "max": [
+        8.0052919387817383,
+        1.9473769664764404,
+        5.7166290283203125
+      ],
+      "min": [
+        -8.0052919387817383,
+        -1.9473769664764404,
+        -5.7166290283203125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 409956,
+      "componentType": 5126,
+      "count": 34163,
+      "max": [
+        1,
+        0.9999995231628418,
+        0.99998104572296143
+      ],
+      "min": [
+        -0.99999946355819702,
+        -0.9999995231628418,
+        -0.99998116493225098
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 34163,
+      "max": [
+        0.99999964237213135,
+        0.99994748830795288,
+        0.99999880790710449,
+        1
+      ],
+      "min": [
+        -0.9999995231628418,
+        -0.99995875358581543,
+        -0.99999994039535522,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 34163,
+      "max": [
+        0.99885600805282593,
+        0.99580198526382446
+      ],
+      "min": [
+        3.0999999580672011e-05,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 273304,
+      "componentType": 5126,
+      "count": 34163,
+      "max": [
+        0.99885600805282593,
+        0.99580198526382446
+      ],
+      "min": [
+        3.0999999580672011e-05,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 84930,
+      "max": [
+        34162
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 819912,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.43557101488113403,
+        0.97552800178527832,
+        -0.90862900018692017
+      ],
+      "min": [
+        -4.8277149200439453,
+        0.26739099621772766,
+        -3.0970149040222168
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 823428,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.98357909917831421,
+        0.98897427320480347,
+        0.46661299467086792
+      ],
+      "min": [
+        -0.98432469367980957,
+        -0.93985110521316528,
+        -0.89215558767318726
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 546608,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.088449940085411072,
+        0.99134331941604614,
+        0.83402132987976074,
+        1
+      ],
+      "min": [
+        -0.99999988079071045,
+        -0.98201930522918701,
+        -0.99128168821334839,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 546608,
+      "componentType": 5126,
+      "count": 293,
+      "max": [
+        0.83015298843383789,
+        0.97915297746658325
+      ],
+      "min": [
+        -0.33608201146125793,
+        0.020583033561706543
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 339720,
+      "componentType": 5125,
+      "count": 729,
+      "max": [
+        292
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "dannysgallegos (https://sketchfab.com/dannysgallegos)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/p38-d-lightning-airplane-low-poly-0faa2919aa504d5998fd7fb2ed76a5ce",
+      "title": "P38-D Lightning Airplane Low Poly"
+    },
+    "generator": "Sketchfab-6.49.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 342636,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 548952,
+      "byteOffset": 342636,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 826944,
+      "byteOffset": 891588,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 551296,
+      "byteOffset": 1718532,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2269828,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/4fd9a166.dds_baseColor.png"
+    },
+    {
+      "uri": "textures/4fd9a166.dds_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "4fd9a166.dds",
+      "normalTexture": {
+        "index": 1,
+        "scale": 0.67244664634146345,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.41634908536585363,
+        "roughnessFactor": 0.24561737804878048
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "10e3e2a0.dds",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.080446513634533617,
+          0.074057855271589729,
+          0.074057855271589729,
+          0.17244664634146342
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.12366615853658537
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "p38_lighting_4fd9a166.dds_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "p38_lighting_10e3e2a0.dds_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9
+          },
+          "indices": 10,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "P38DLightning.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.051196001470088959,
+        1.9537639617919922,
+        0.75838601589202881,
+        1
+      ],
+      "name": "p38_lighting"
+    },
+    {
+      "mesh": 0,
+      "name": "p38_lighting_4fd9a166.dds_0"
+    },
+    {
+      "mesh": 1,
+      "name": "p38_lighting_10e3e2a0.dds_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+

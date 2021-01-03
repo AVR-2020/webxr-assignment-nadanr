@@ -20,7 +20,7 @@
 </head>
 <body>
     <a-scene id="mainScene" physics="gravity: -9.8; debug: true; friction: 0.9;">
-        <a-sky color="lightblue"></a-sky>
+        <a-sky color="white"></a-sky>
         <a-asset>
             <a-asset-item id="airplane" src="main/models/airplane/scene.gltf"></a-asset-item>
             <a-asset-item id="hansa" src="models/airplaneHansa/scene.gltf"></a-asset-item>
@@ -35,20 +35,20 @@
     <!--ground-->
     <a-box
         shadow rotation= "-90 0 0"
-        color=yellow
+        color=gray
         static-body
-        width="100"
-        height="100"
+        width="40"
+        height="40"
         depth="0.1"
         position="0 0 -5"
     ></a-box>
     
     <a-entity checkpoint gltf-model="#showroom" scale="20 20 10" position="25 25 -4"></a-entity>
-    <a-entity checkpoint gltf-model="#airplane" scale="1 1 1" position="10 5 -4"></a-entity>
-    <a-entity checkpoint gltf-model="#hansa" scale="1 1 1" position="20 5 -4"></a-entity>
-    <a-entity checkpoint gltf-model="#lightning" scale="1 1 1" position="30 5 -4"></a-entity>
-    <a-entity checkpoint gltf-model="#lowpoly" scale="1 1 1" position="10 20 -4"></a-entity>
-    <a-entity checkpoint gltf-model="#roland" scale="1 1 1" position="20 20 -4"></a-entity>
+    <a-entity checkpoint gltf-model="#airplane" scale="0.05 0.05 0.05" position="10 5 -4"></a-entity>
+    <a-entity checkpoint gltf-model="#hansa" scale="0.05 0.05 0.05" position="20 5 -4"></a-entity>
+    <a-entity checkpoint gltf-model="#lightning" scale="0.05 0.05 0.05" position="30 5 -4"></a-entity>
+    <a-entity checkpoint gltf-model="#lowpoly" scale="0.05 0.05 0.05" position="10 20 -4"></a-entity>
+    <a-entity checkpoint gltf-model="#roland" scale="0.05 0.05 0.05" position="20 20 -4"></a-entity>
 
     ></a-scene>
 </body>
